@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class fizzBuzzImp {
     public static void main(String[] args) {
-
+//test
         int num;
 
         Scanner scanner = new Scanner(System.in);
